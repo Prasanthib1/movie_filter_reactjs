@@ -1,0 +1,121 @@
+[
+    {
+        "Name":"The Suicide Squad",
+        "Genre":"['Action', 'Adventure', 'Comedy ']",
+        "Ranking":1,
+        "Rating":4,
+        "Number of Reviews":457
+    },
+    {
+        "Name":"The Tomorrow War",
+        "Genre":"['Action', 'Adventure', 'Sci-Fi ']",
+        "Ranking":2,
+        "Rating":4.5,
+        "Number of Reviews":209
+    },
+    {
+        "Name":"A Quiet Place Part II",
+        "Genre":"['Drama','Horror', 'Sci-Fi ']",
+        "Ranking":3,
+        "Rating":3.5,
+        "Number of Reviews":340
+    },
+    {
+        "Name":"Don't Breathe",
+        "Genre":"['Crime', 'Horror', 'Thriller ']",
+        "Ranking":4,
+        "Rating":4.5,
+        "Number of Reviews":524
+    },
+    {
+        "Name":"Infinite",
+        "Genre":"['Action', 'Sci-Fi', 'Thriller ']",
+        "Ranking":5,
+        "Rating":4.5,
+        "Number of Reviews":316
+    },
+    {  
+        "Name":"This is Us",
+        "Genre":"['Comedy','Drama', 'Romance ']",
+        "Ranking":6,
+        "Rating":3.5,
+        "Number of Reviews":845
+    },
+    {
+        "Name":"The Conjuring",
+        "Genre":"['Horror', 'Mystery', 'Thriller ']",
+        "Ranking":7,
+        "Rating":4.5,
+        "Number of Reviews":1011
+    },
+    {
+        "Name":"Inside",
+        "Genre":"['Comedy','Drama','Music ']",
+        "Ranking":8,
+        "Rating":5,
+        "Number of Reviews":1435
+    },
+    {
+        "Name":"Love and Monsters",
+        "Genre":"['Action', 'Adventure', 'Comedy ']",
+        "Ranking":9,
+        "Rating":4,
+        "Number of Reviews":921
+    },
+    {
+        "Name":"Tenet",
+        "Genre":"['Action','Sci-Fi','Thriller ']",
+        "Ranking":10,
+        "Rating":4.5,
+        "Number of Reviews":450
+    },
+    {
+        "Name":"Avatar",
+        "Genre":"['Action','Adventure','Fantasy ']",
+        "Ranking":11,
+        "Rating":5,
+        "Number of Reviews":1789
+    },
+    {
+        "Name":"Harry Potter and the Sorcerers Stone",
+        "Genre":"['Adventure','Family','Fantasy ']",
+        "Ranking":12,
+        "Rating":4.5,
+        "Number of Reviews":1398
+    },
+    {
+        "Name":"Avengers: Endgame",
+        "Genre":"['Action', 'Adventure','Drama ']",
+        "Ranking":13,
+        "Rating":5,
+        "Number of Reviews":987
+    },
+    {
+        "Name":"Fast Five",
+        "Genre":"['Action', 'Adventure', 'Crime ']",
+        "Ranking":14,
+        "Rating":3.5,
+        "Number of Reviews":586
+    },
+    {
+        "Name":"Five Feet Apart",
+        "Genre":"['Drama', 'Romance ']",
+        "Ranking":15,
+        "Rating":4.5,
+        "Number of Reviews":246
+    },
+    {
+        "Name":"Gladiator",
+        "Genre":"['Action','Adventure','Drama ']",
+        "Ranking":16,
+        "Rating":4.5,
+        "Number of Reviews":1391
+    },
+    {
+        "Name":"Jurassic Park",
+        "Genre":"['Action','Adventure','Sci-Fi ']",
+        "Ranking":17,
+        "Rating":4.5,
+        "Number of Reviews":1380
+    }
+]
